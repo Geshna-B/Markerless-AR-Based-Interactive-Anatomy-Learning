@@ -1,0 +1,9 @@
+Phone Camera Calibration Summary
+================================
+
+Image Size: 1280 x 960 pixels
+Focal Length (fx, fy): 945.6712, 945.3194 pixels
+Principal Point (cx, cy): 478.4748, 647.7959 pixels
+Radial Distortion (k1, k2): 0.119310, -0.255931
+Mean Reprojection Error: 0.6516 pixels
+Number of Calibration Images: 16
