@@ -1,0 +1,8 @@
+path: D:/Desktop/6th Sem/CV/Project/dataset/anatomy_dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+names: ["heart", "brain", "lungs"]
